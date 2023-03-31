@@ -138,3 +138,4 @@ if (NOT MAA_VERSION)
 endif ()
 message(STATUS "MAA_VERSION=${MAA_VERSION}")
 add_compile_definitions(MAA_VERSION="${MAA_VERSION}")
+// this is a test
